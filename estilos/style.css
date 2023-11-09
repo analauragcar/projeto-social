@@ -12,10 +12,10 @@ html, body {
 }
 
 body {
-    background-image: url('../imagens/fundo-madeira.jpg');
+    background-image: url('../imagens/fundo-principal.jpg');
     background-attachment: fixed;
     background-repeat: no-repeat;
-    background-position: center;
+    background-position: left center;
 }
 
 main {
